@@ -1,1 +1,2 @@
-console.log('testjshost)
+console.log('testjshost);
+alert('file connected');
